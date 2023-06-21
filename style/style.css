@@ -1,0 +1,36 @@
+body{
+    background-color: rgba(217, 103, 240, 0.767);
+}
+
+#titulo_one{
+    font-size: 25px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    margin-top: 50px;
+}
+#caixa{
+    margin: auto;
+    text-align: center;
+}
+.botaoC{
+    width: 100px;
+    height: 50px;
+
+}
+#nao{
+    position: absolute;
+}
+#block{
+    box-shadow: 3px 3px 3px black;
+    padding: 20px;
+    background-color: white;
+    text-align: center;
+    margin: auto;
+    margin-top: 100px;
+    width: 500px;
+    height: 150px;
+    display: none;
+}
+#block > h1{
+    font-family: Arial, Helvetica, sans-serif;
+}
